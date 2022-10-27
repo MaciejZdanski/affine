@@ -7,5 +7,3 @@ def catalan(n):
         for i in range (n):
             b += (catalan(i))*(catalan(n-1-i))
     return b
-
-print(catalan(26))
