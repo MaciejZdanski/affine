@@ -1,5 +1,8 @@
 #local files
 *.txt
+*.pdf
+literatura/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
